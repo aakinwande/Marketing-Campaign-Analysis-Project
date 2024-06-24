@@ -11,7 +11,7 @@ Data Collection and Preparation: Generated a mock dataset representing marketing
 Exploratory Data Analysis (EDA): Performed initial data exploration to understand the dataset and identify any anomalies.<br />
 
 Campaign Analysis: Calculated key metrics such as Conversion Rate, Cost per Conversion, ROI, and Customer Acquisition Cost (CAC) for each campaign.<br />
-
+ 
 Channel Analysis: Grouped data by marketing channels to identify which channels perform the best on average.<br />
 
 Visualization and Reporting: Provided guidance on creating visualizations using tools like Tableau and Power BI to present findings.<br /><br />
